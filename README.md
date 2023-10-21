@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RetardDev
 - 👀 I’m interested in becoming a full stack developer by next year. 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning C++.
 - Some of you may think that it is impossible for a beginner to become a fullstack developer within a year
 - But if you are interested in finding out if that is possible, Stay tuned.
 - I will consistently update or push a new project and I believe from there you can see my progress.
